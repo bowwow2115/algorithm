@@ -1,4 +1,4 @@
-package algorithm;
+package upto_section2;
 
 public class ArraysSumOf {
 
